@@ -3,7 +3,7 @@
 ## Introduction:
 After taking ECE 316 (Digital Logic Design) at the University of Texas at Austin, I found that I enjoyed using HDLs. I thought it would be cool to make a CPU in Verilog, so after some research, I found the CHIP-8 ISA and got started.
 
-This project required a ton of independent research, so there isn't much optimization. I plan to implement parallelization and pipelining after I develop those skills in ECE 460N (Computer Architecture) next spring.
+This project required a ton of independent research, so there isn't much optimization. I plan to implement optimizations, such as parallelization and pipelining after I develop those skills in ECE 460N (Computer Architecture) next spring.
 
 ## Goals:
   * Implement all of the RV32I's Base Instructions. ✅
