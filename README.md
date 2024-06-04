@@ -12,11 +12,11 @@ This project required a ton of independent research, so there isn't much optimiz
 
 ## Simulation Output (Basic Test Case)
 
-Input:
+### Input:
 
 ![image](https://github.com/Emmanuel-Roy/RISC-V-RV32I-CPU_Verilog-Implementation/assets/54725843/3d700c9a-c805-437a-835e-28774d107aa7)
 
-Output:
+### Output:
 
 ![image](https://github.com/Emmanuel-Roy/RISC-V-RV32I-CPU_Verilog-Implementation/assets/54725843/56376a31-53cd-48dc-a476-399f4b892458)
 
